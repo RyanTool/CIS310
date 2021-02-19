@@ -1,0 +1,2 @@
+This is a new line input!This will overwrite my file!d to file1.txt!
+This is another line, I can append more lines with the fa variable!
